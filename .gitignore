@@ -51,4 +51,4 @@ __pycache__/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
-autograder/
+**/autograder/*
